@@ -1,11 +1,11 @@
 function bigImg(x) {
-    x.style.height = "10%";
-    x.style.width = "10%";
+    x.style.height = "15%";
+    x.style.width = "15%";
   }
   
   function normalImg(x) {
-    x.style.height = "5%";
-    x.style.width = "5%";
+    x.style.height = "10%";
+    x.style.width = "10%";
   }
 
   function bigMypic(x) {
